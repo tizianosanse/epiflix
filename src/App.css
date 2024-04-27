@@ -28,6 +28,12 @@
   color: #61dafb;
 }
 
+/* Nel tuo file CSS o nel tuo componente React */
+.custom-footer {
+  margin-top: 20px; /* Puoi regolare il valore per aumentare o diminuire lo spazio tra le sezioni */
+  margin-bottom: 20px; /* Puoi regolare anche il margin-bottom se desideri uno spazio aggiuntivo nella parte inferiore del footer */
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
